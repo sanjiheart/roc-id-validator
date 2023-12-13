@@ -1,5 +1,5 @@
 {
-  "name": "roc-id-validator",
+  "name": "@sanjiheart/roc-id-validator",
   "version": "1.0.0",
   "description": "Validator for ROC ID",
   "main": "dist/index.js",
