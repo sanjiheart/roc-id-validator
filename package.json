@@ -1,11 +1,12 @@
 {
   "name": "@sanjiheart/roc-id-validator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Validator for ROC ID",
   "main": "dist/index.js",
-  "files": [
-    "dist"
-  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanjiheart/roc-id-validator"
+  },
   "author": "sanjiheart",
   "license": "MIT",
   "devDependencies": {
